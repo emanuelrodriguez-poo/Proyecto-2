@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+<trk>
+  <name>Ruta_Villemar</name>
+  <trkseg>
+    <trkpt lat="4.671507358" lon="-74.139755248"></trkpt>
+    <trkpt lat="4.671906818" lon="-74.139285006"></trkpt>
+    <trkpt lat="4.672312649" lon="-74.138843163"></trkpt>
+    <trkpt lat="4.672705064" lon="-74.139063735"></trkpt>
+    <trkpt lat="4.673156458" lon="-74.139337135"></trkpt>
+    <trkpt lat="4.672938674" lon="-74.139620493"></trkpt>
+    <trkpt lat="4.672725995" lon="-74.139895941"></trkpt>
+    <trkpt lat="4.672603837" lon="-74.140056297"></trkpt>
+    <trkpt lat="4.672842957" lon="-74.140259625"></trkpt>
+    <trkpt lat="4.673020839" lon="-74.140327453"></trkpt>
+    <trkpt lat="4.673225162" lon="-74.14016548"></trkpt>
+    <trkpt lat="4.673390507" lon="-74.139949671"></trkpt>
+    <trkpt lat="4.673674601" lon="-74.13963531"></trkpt>
+    <trkpt lat="4.673859741" lon="-74.139339765"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
